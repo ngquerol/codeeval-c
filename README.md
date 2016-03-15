@@ -1,2 +1,3 @@
 # codeeval-c
-CodeEval exercises (C)
+CodeEval exercises in the C programming language.
+Some may be incomplete or even incorrect. 
